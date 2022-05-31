@@ -2,6 +2,10 @@
 
 - 🌱 I’m currently learning about Front-End.
 
+
+### 저서
+- [<개발자가 되기 위해 꼭 알아야하는 IT 용어>](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=295246586)
+
 <!-- <a href="https://github.com/YuriKwon/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/YuriKwon/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=YuriKwon&column=8&theme=gruvbox&no-frame=true"/>
