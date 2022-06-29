@@ -2,7 +2,8 @@
 
 - 🌱 I’m currently learning about Front-End.
 
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYuriKwon%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=googlekeep.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYuriKwon&count_bg=%2379C83D&title_bg=%23555555&icon=googlekeep.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ### 저서
 - [<개발자가 되기 위해 꼭 알아야하는 IT 용어>](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=295246586)
 
