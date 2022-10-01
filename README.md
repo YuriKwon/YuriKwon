@@ -1,16 +1,15 @@
-### Hi there 👋
+### 👋 Hi there
 
 💬 I'm Yuri Kwon, majoring in computer science. <br>
 🌱 I’m currently learning about Front-End.
 
 
-
 [![Tistory Badge](https://img.shields.io/badge/Blog-Yuri's%20Dev%20Note-ff69b4)](https://jiyusu99.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:99jiyusu@gmail.com) 
 
-
-
-### Tools
+---
+<!--  🔧⚒⚒🛠 -->
+### 🔧 Tools
 #### Language
 <div>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
@@ -33,9 +32,9 @@
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
 </div>
 
-
-### Experience 
-### Development
+---
+### 💻 Experience
+#### Development
 - 2020.09 ~ 2020.11 호텔 관리 페이지 개발 <br>
   (`Javascript`, `Node.js`, `EJS`,` MySQL`)
 - 2020.12 ~ 2021.12 Mobigen UI 솔루션 연구팀 인턴 <br>
@@ -45,7 +44,7 @@
 - 2022.05 ~ 2022.07 프로젝트/스터디 모집 플랫폼 Promentous 개발 <br>
   (`Javascript`, `VueJS`, `Node.js`, `MySQL`, `AWS`)
 
-### Activity
+#### Activity
 - 2021.01 ~ 2021.02 드림코딩 타입스크립트 + 객체지향 프로그래밍 마스터 자막 검수
 - 2021.11 [<Node.js 프로젝트 투입 일주일 전>](http://www.yes24.com/Product/Goods/105847907) 베타 리더
 - 2021.12 ~ 2022.02 [<개발자가 되기 위해 꼭 알아야하는 IT 용어>](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=295246586) 공동 집필
