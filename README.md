@@ -1,15 +1,17 @@
-### 👋 Hi there
+###  About Me
 
-💬 I'm Yuri Kwon, majoring in computer science. <br>
-🌱 I’m currently learning about Front-End.
 
+- 👋 I'm Yuri Kwon, majoring in computer science. <br>
+- 💬 I’m Front-End developer.
+- 💕 I like to share knowledge and collaborate.
+- 🔑 I always try to solve the problem on a reasonable basis.
 
 [![Tistory Badge](https://img.shields.io/badge/Blog-Yuri's%20Dev%20Note-ff69b4)](https://jiyusu99.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:99jiyusu@gmail.com) 
 
 ---
 <!--  🔧⚒⚒🛠 -->
-### 🔧 Tools
+### 🔧 Skills
 #### Language
 <div>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
