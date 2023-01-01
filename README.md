@@ -62,6 +62,8 @@
   (`Javascript`, `VueJS`, `Node.js`, `MySQL`)
 - 2022.05 ~ 2022.07 프로젝트/스터디 모집 플랫폼 Promentous 개발 <br>
   (`Javascript`, `VueJS`, `Node.js`, `MySQL`, `AWS`)
+- 2022.11 ~ 2022.12 ChoBab 개발 <br>
+  (`Typescript`, `React`, `NestJS`, `MongoDB`, `NCP`, `Nginx`)
  -->
 #### Activity
 - 2021.01 ~ 2021.02 드림코딩 타입스크립트 + 객체지향 프로그래밍 마스터 자막 검수
