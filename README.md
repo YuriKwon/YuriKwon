@@ -1,8 +1,8 @@
 ###  About Me
 
 
-- 👋 I'm Yuri Kwon, majoring in computer science. <br>
-- 💬 I’m Front-End developer.
+- 👋 I'm **Yuri Kwon**, majoring in computer science. <br>
+- 💬 I’m **Front-End** developer.
 - 💕 I like to share knowledge and collaborate.
 - 🔑 I always try to solve the problem on a reasonable basis.
 
