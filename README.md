@@ -78,11 +78,10 @@
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=YuriKwon&column=8&theme=gruvbox&no-frame=true"/>
 </a>
  -->
-<!-- --- -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YuriKwon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=YuriKwon&count_private=true&show_icons=true&theme=radical&include_all_commits=true" />
+  <img height="170" align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YuriKwon&count_private=true&show_icons=true&theme=radical&include_all_commits=true" />
+
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jiyusu99">
   <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuriKwon&layout=compact" /> -->
 </div>
