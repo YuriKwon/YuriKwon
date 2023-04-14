@@ -1,5 +1,7 @@
 ###  About Me
-
+<!--
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYuriKwon&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+-->
 
 - 👋 I'm **Yuri Kwon**, majoring in computer science. <br>
 - 💬 I’m **Front-End** developer.
@@ -8,6 +10,7 @@
 
 [![Tistory Badge](https://img.shields.io/badge/Blog-Yuri's%20Dev%20Note-ff69b4)](https://jiyusu99.tistory.com/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:99jiyusu@gmail.com) 
+
 
 ---
 <!--  🔧⚒⚒🛠 -->
@@ -23,15 +26,19 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue.js-42d392?style=flat-square&logo=Vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/styled components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <br />
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-zustand-brown"/>
-  <img src="https://img.shields.io/badge/-recoil-blue"/>
-  <img src="https://img.shields.io/badge/-Vite-blueviolet"/>
-
-  
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Zustand-brown?style=flat-square&logo=Zerply&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Recoil-blue?style=flat-square&logo=Recoil&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=React Query&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React Hook Form-EC5990?style=flat-square&logo=reacthookform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white"/>
 
 </div>
 
@@ -47,8 +54,10 @@
 #### CI/CD, Deploy
 <div>
   <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=Nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/Github Actions-2088FF?style=flat-square&logo=Github Actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NCP-03C75A?style=flat-square&logo=naver&logoColor=white"/>
 </div>
 
 ---
@@ -58,6 +67,7 @@
   (`Javascript`, `Node.js`, `EJS`,` MySQL`)
 - 2020.12 ~ 2021.12 Mobigen UI 솔루션 연구팀 인턴 <br>
   (`Javascript`, `AngularJS`, `Java`, `Spring Boot`, `MyBatis`, `docker`, `SonarQube`)
+- 2021.01 ~ 2021.02 드림코딩 타입스크립트 + 객체지향 프로그래밍 마스터 자막 검수
 - 2022.04 ~ 2022.06 코딩 문제 추천 서비스 COALA 웹 개발 <br>
   (`Javascript`, `VueJS`, `Node.js`, `MySQL`)
 - 2022.05 ~ 2022.07 프로젝트/스터디 모집 플랫폼 Promentous 개발 <br>
@@ -67,11 +77,11 @@
  -->
 #### Activity
 - 2020.12 ~ 2021.12 Mobigen UI 솔루션 연구팀 인턴
-- 2021.01 ~ 2021.02 드림코딩 타입스크립트 + 객체지향 프로그래밍 마스터 자막 검수
 - 2021.11 [<Node.js 프로젝트 투입 일주일 전>](http://www.yes24.com/Product/Goods/105847907) 베타 리더
 - 2021.12 ~ 2022.02 [<개발자가 되기 위해 꼭 알아야하는 IT 용어>](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=295246586) 공동 집필
 - 2022.07 ~ 2022.08 네이버 커넥트재단 <부스트캠프 웹﹒모바일 7기 챌린지> - 웹 풀스택 과정 수료
 - 2022.08 ~ 2022.12 네이버 커넥트재단 <부스트캠프 웹﹒모바일 7기 멤버십> - 웹 풀스택 과정 수료
+- 2023.04 ~ SW 마에스트로 14기
 
 <!-- <a href="https://github.com/YuriKwon/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/YuriKwon/github-profile-trophy">
