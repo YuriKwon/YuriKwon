@@ -81,7 +81,7 @@
 - 2021.12 ~ 2022.02 [<개발자가 되기 위해 꼭 알아야하는 IT 용어>](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=295246586) 공동 집필
 - 2022.07 ~ 2022.08 네이버 커넥트재단 <부스트캠프 웹﹒모바일 7기 챌린지> - 웹 풀스택 과정 수료
 - 2022.08 ~ 2022.12 네이버 커넥트재단 <부스트캠프 웹﹒모바일 7기 멤버십> - 웹 풀스택 과정 수료
-- 2023.04 ~ SW 마에스트로 14기
+- 2023.04 ~ 2023.11 SW 마에스트로 14기
 
 <!-- <a href="https://github.com/YuriKwon/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/YuriKwon/github-profile-trophy">
