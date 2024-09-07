@@ -82,6 +82,7 @@
 - 2022.07 ~ 2022.08 네이버 커넥트재단 <부스트캠프 웹﹒모바일 7기 챌린지> - 웹 풀스택 과정 수료
 - 2022.08 ~ 2022.12 네이버 커넥트재단 <부스트캠프 웹﹒모바일 7기 멤버십> - 웹 풀스택 과정 수료
 - 2023.04 ~ 2023.11 SW 마에스트로 14기
+- 2024.01 ~         삼성전자 SW Developer
 
 <!-- <a href="https://github.com/YuriKwon/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/YuriKwon/github-profile-trophy">
